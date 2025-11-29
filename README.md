@@ -14,6 +14,8 @@
 
 ✔️ Fast, lightweight, and beginner-friendly
 
+
+
 🧠 How It Detects Fraud (Logic Used)
 
 The system uses rule-based logic such as:
@@ -28,6 +30,8 @@ The system uses rule-based logic such as:
 
 ✔️ Regex-based detection for risky numbers/links
 
+
+
 ▶️ How to Run the Project
 1. Install Dependencies
 npm install
@@ -37,6 +41,7 @@ node server.js
 
 3. Open in Browser
 http://localhost:3000
+
 
 📎 Pages
 ✔ fraudsms.html
